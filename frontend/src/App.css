@@ -1130,6 +1130,9 @@ body {
 .menuBtn > span:before {
   bottom: -7px;
 }
+.menuBtn.act {
+  position: fixed;
+}
 .menuBtn.act > span {
   height: 0;
 }
@@ -1149,7 +1152,7 @@ body {
 /* main menu block */
 .mainMenu {
   background-color: #b9ccbe;
-  position: absolute;
+  position: fixed;
   left: 0;
   top: 0;
   z-index: 100;
