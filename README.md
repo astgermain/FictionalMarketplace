@@ -6,4 +6,8 @@
 
 ## Run with backend and frontend server.js files
 
+## Todo:
+### 1) Add Next.js
+### 2) Shopping Cart Experience
+
 
