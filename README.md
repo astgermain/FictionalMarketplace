@@ -1,4 +1,5 @@
-# Live : https://fictionalmarketplace.live/  Work In Progress
+# Live : https://fictionalmarketplace.live/  
+## I am having to stop the instance due to the currently high AWS costs. If you'd like me to run it please let me know!
 # A concept marketplace app with LINE Login
 
 ## Due to the large amount of animations used, runs optimally on Firefox/Safari(Desktop or Mobile)
