@@ -220,7 +220,6 @@ class Home extends Component {
                     </Slide>
                 </div>
                 <div className="row">
-                    <Rotate top left>
                         <div className="col-sm-12 col-md-4 boxR3o">
                         <div className="inner-box">
                             <div className="b3">
@@ -293,10 +292,8 @@ class Home extends Component {
                             </div>
                         </div>
                         </div>
-                    </Rotate>
                 </div>
                 <div className="row">
-                <Rotate top right>
                     <div className="col-sm-12 col-md-4 boxR3o R3o3">
                     <div className="inner-box">
                         <div className="b6">
@@ -369,10 +366,8 @@ class Home extends Component {
                         </div>
                         </div>
                     </div>
-                    </Rotate>
                 </div>
                 <div className="row">
-                    <Slide bottom>
                         <div className="col-sm-12 col-md-4 boxR3o R3o1">
                         <div className="inner-box">
                         <div className="b9">
@@ -443,7 +438,6 @@ class Home extends Component {
                         </div>
                         </div>
                         </div>
-                    </Slide>
                 </div>
                     
             </div>
